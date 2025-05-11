@@ -16,3 +16,32 @@
 7. Option for multiple Current Switched
         - Primarily uses Group of Mosfets as a switch but, if you don't have power MOSFETs at your spare, Motorbike Starter relays or Car Starter relays can also be used instead of the Mosfets. <br>
         - A relay is Present, if you want to make a SPOT Welder from Hacked Microwave Transformer, It can do it as well by acting as a timing switch. <br>
+
+
+
+<H4>
+Arduino Pro Mini 5V :- 1Pcs, Amazon
+0.96 inch White Oled :- 1Pcs, Amazon
+Rotatory Encoder Module :- 1Pcs, Amazon
+2 Pin Terminal Block :- 2Pcs, Amazon
+8AWG or 10AWG Wire :- 2Mtr
+Barallel Jack Connector :- 2Pcs, Amazon
+5V relay :- 1Pcs
+5V Buzzer :- 1pcs
+BC547 NPN BJT transistor :- 1Pcs
+IRFZ44N Mosfet :- 1pcs
+AMS1117-5V voltage Regulator :- 1Pcs
+Any N-Channel Mosfet of TO-220-3 package with >=150 Drain to source current. MPG200N08 or HY4008P :- 6Pcs.
+PC817 Optocupler :- 3Pcs
+0603 2 Ohm resistor :- 6Pcs
+0603 220 Ohm resistor :- 6pcs
+0603 10K resistor :- 3Pcs
+0603 100Ohm Resistor:- :- 1pcs
+0603 20K Resistor :- 1Pcs
+0603 4.7K Resistor :- 1Pcs
+0603 1K Resistor :- 1Pcs
+SS56 Schottkey Diode :- 9Pcs
+1uF 0608 ceramic Capacitor :- 3pcs
+35V 680uF capacitor :- 1pcs
+10V 220uF capacitor :- 1Pcs
+</H4>
