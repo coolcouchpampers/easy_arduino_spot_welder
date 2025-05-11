@@ -19,7 +19,7 @@
 
 
 
-<H4>
+<H3>
 Arduino Pro Mini 5V :- 1Pcs, Amazon
 0.96 inch White Oled :- 1Pcs, Amazon
 Rotatory Encoder Module :- 1Pcs, Amazon
@@ -44,4 +44,5 @@ SS56 Schottkey Diode :- 9Pcs
 1uF 0608 ceramic Capacitor :- 3pcs
 35V 680uF capacitor :- 1pcs
 10V 220uF capacitor :- 1Pcs
-</H4>
+        <br>
+</H3>
